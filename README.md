@@ -25,7 +25,7 @@ Probing R3:
 13.	Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
 ## **Insights Generated from Questions**
-Basic Insights:
+## Basic Insights:
 1.	Total Orders Placed:
 o	Result: 21,350 orders 
 o	Insight: High order volume indicates strong demand for PizzaHut’s products, which provides a foundation for further analysis.
@@ -47,7 +47,7 @@ o	Result:
 5.	Meat Feast.
 o	Insight: These pizza types are customer favorites and should be prioritized for inventory, promotions, and cross-selling opportunities.
 ________________________________________
-Intermediate Insights:
+# Intermediate Insights:
 6.	Total Quantity of Each Pizza Category Ordered:
 o	Result: 40% vegetarian, 60% non-vegetarian.
 o	Insight: Non-vegetarian pizzas dominate, but vegetarian options remain a substantial part of sales.
@@ -69,7 +69,7 @@ o	Insight: This trend can guide inventory and staff scheduling decisions.
 3.	Meat Feast.
 •	Insight: These pizzas generate the most revenue and should be prioritized in marketing and inventory planning.
 ________________________________________
-Advanced Insights:
+# Advanced Insights:
 11.	Percentage Contribution of Each Pizza Type to Revenue:
 •	Result: Top 3 pizzas contribute 65% of total revenue, aligning with the Pareto Principle (80/20 rule).
 •	Insight: Focus on these pizzas to maximize revenue.
@@ -85,7 +85,7 @@ ________________________________________
 
 
 ## **Final Conclusion**
-Key Findings:
+# Key Findings:
 •	The most common pizza size is Large, showing customer preference for value and sharing-sized pizzas.
 •	The highest-priced pizza is Truffle Deluxe ($35), positioned as a premium product.
 •	Top 5 most ordered pizzas (e.g., Margherita, BBQ Chicken) dominate sales and customer preferences.
@@ -94,9 +94,9 @@ Key Findings:
 •	The Pareto Principle is evident: a few pizza types contribute the majority of revenue.
 ________________________________________
 ## **Recommendations:**
-1.	Promotions: Focus campaigns around large pizzas and top-performing pizza types. Offer discounts during low-demand hours to boost sales.
-2.	Menu Engineering: Highlight high-demand and high-revenue pizzas while reviewing underperforming options for improvement or replacement.
-3.	Operational Efficiency: Align staffing and inventory with peak hours and days. Use data insights to avoid overstocking during low-demand times.
-4.	Seasonal Planning: Capitalize on weekend and holiday trends with targeted promotions and sufficient inventory.
+1.	# Promotions: Focus campaigns around large pizzas and top-performing pizza types. Offer discounts during low-demand hours to boost sales.
+2.	# Menu Engineering: Highlight high-demand and high-revenue pizzas while reviewing underperforming options for improvement or replacement.
+3.	# Operational Efficiency: Align staffing and inventory with peak hours and days. Use data insights to avoid overstocking during low-demand times.
+4.	# Seasonal Planning: Capitalize on weekend and holiday trends with targeted promotions and sufficient inventory.
 By leveraging these insights, PizzaHut can refine its strategies to enhance customer satisfaction, maximize profitability, and ensure sustainable growth.
 
