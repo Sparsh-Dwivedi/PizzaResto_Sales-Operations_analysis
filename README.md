@@ -12,7 +12,7 @@ Pizza Resto aims to improve its overall sales performance, profitability, and cu
 2.	Calculate the total revenue generated from pizza sales.
 3.	Identify the highest-priced pizza.
 4.	Identify the most common pizza size ordered.
-5.	List the top 5 most ordered pizza types along with their quantities.  
+5.	List the top 5 most ordered pizza types along with their quantities. 
 <br><b>Probing R2:</b></br>
 6.	Join the necessary tables to find the total quantity of each pizza category ordered.
 7.	Determine the distribution of orders by hour of the day.
@@ -27,47 +27,47 @@ Pizza Resto aims to improve its overall sales performance, profitability, and cu
 ## **Insights Generated from Questions**
 <br><b>Basic Insights:</b></br>
 <br><b>1.	Total Orders Placed:</b></br>
-o	Result: 21,350 orders 
-o	Insight: High order volume indicates strong demand for PizzaHut’s products, which provides a foundation for further analysis.
+*	Result: 21,350 orders 
+*	Insight: High order volume indicates strong demand for PizzaHut’s products, which provides a foundation for further analysis.
 <br><b>2.	Total Revenue Generated:</b></br>
-o	Result: $ 817,860.05
-o	Insight: Pizza sales are a significant source of income, with potential to increase further through strategic actions.
+*	Result: $ 817,860.05
+*	Insight: Pizza sales are a significant source of income, with potential to increase further through strategic actions.
 <br><b>3.	Highest-Priced Pizza:</b></br>
-o	Result: Truffle Deluxe ($35).
-o	Insight: The premium pricing of the Truffle Deluxe positions it as a luxury item. If sales are low, adjustments to marketing or pricing might boost its demand.
+*	Result: Truffle Deluxe ($35).
+*	Insight: The premium pricing of the Truffle Deluxe positions it as a luxury item. If sales are low, adjustments to marketing or pricing might boost its demand.
 <br><b>4.	Most Common Pizza Size Ordered:</b></br>
-o	Result: Large.
-o	Insight: Customers prefer larger pizzas, which should inform inventory planning and promotional campaigns.
+*	Result: Large.
+*	Insight: Customers prefer larger pizzas, which should inform inventory planning and promotional campaigns.
 <br><b>5.	Top 5 Most Ordered Pizza Types:</b></br>
-<br>o	Result:</br>
+*	Result:
 1.	Margherita
 2.	Pepperoni
 3.	BBQ Chicken
 4.	Veggie Delight
 5.	Meat Feast.
-<br>o	Insight: These pizza types are customer favorites and should be prioritized for inventory, promotions, and cross-selling opportunities.</br>
+*	Insight: These pizza types are customer favorites and should be prioritized for inventory, promotions, and cross-selling opportunities.
 ________________________________________
 # Intermediate Insights:
 <br><b>6.	Total Quantity of Each Pizza Category Ordered:</b></br>
-o	Result: 40% vegetarian, 60% non-vegetarian.
-o	Insight: Non-vegetarian pizzas dominate, but vegetarian options remain a substantial part of sales.
+*	Result: 40% vegetarian, 60% non-vegetarian.
+*	Insight: Non-vegetarian pizzas dominate, but vegetarian options remain a substantial part of sales.
 <br><b>7.	Distribution of Orders by Hour:</b></br>
-o	Result: Peak demand occurs during 7:00 PM - 9:00 PM, while low demand is observed between 2:00 PM - 4:00 PM.
-o	Insight: Resource allocation and promotional offers can be aligned with these patterns.
+*	Result: Peak demand occurs during 7:00 PM - 9:00 PM, while low demand is observed between 2:00 PM - 4:00 PM.
+*	Insight: Resource allocation and promotional offers can be aligned with these patterns.
 <br><b>8.	Category-Wise Distribution of Pizzas:</b></br>
-o	Result:
+*	Result:
 	Vegetarian: Margherita, Veggie Delight, Paneer Tikka.
 	Non-Vegetarian: BBQ Chicken, Pepperoni, Meat Feast.
-o	Insight: Non-vegetarian pizzas dominate revenue, but vegetarian pizzas maintain steady demand.
+*	Insight: Non-vegetarian pizzas dominate revenue, but vegetarian pizzas maintain steady demand.
 <br><b>9.	Average Number of Pizzas Ordered Per Day:</b></br>
-o	Result: 200 pizzas (example value).
-o	Insight: This trend can guide inventory and staff scheduling decisions.
+*	Result: 200 pizzas (example value).
+*	Insight: This trend can guide inventory and staff scheduling decisions.
 <br><b>10.	Top 3 Pizza Types Based on Revenue:</b></br>
-<br>*	Result: </br>
+*	Result:
 1.	BBQ Chicken
 2.	Pepperoni
 3.	Meat Feast.
-<br>*	Insight: These pizzas generate the most revenue and should be prioritized in marketing and inventory planning.</br>
+*	Insight: These pizzas generate the most revenue and should be prioritized in marketing and inventory planning.
 ________________________________________
 # Advanced Insights:
  <br><b>11.	Percentage Contribution of Each Pizza Type to Revenue:</b></br>
@@ -77,21 +77,21 @@ ________________________________________
 *	Result: Revenue shows steady growth with spikes during weekends and holidays.
 *	Insight: Weekend and holiday promotions are key to capitalizing on peak sales periods.
 <br><b> 13.	Top 3 Most Ordered Pizzas by Revenue for Each Category:</b></br>
-<br>*	Result:</br>
-o	Vegetarian: Margherita, Veggie Delight, Paneer Tikka.
-o	Non-Vegetarian: BBQ Chicken, Pepperoni, Meat Feast.
-<br>*	Insight: Both categories have strong contributors, enabling targeted menu engineering.</br>
+*	Result:
+-	Vegetarian: Margherita, Veggie Delight, Paneer Tikka.
+-	Non-Vegetarian: BBQ Chicken, Pepperoni, Meat Feast.
+-	Insight: Both categories have strong contributors, enabling targeted menu engineering.
 ________________________________________
 
 
 ## **Final Conclusion**
 # Key Findings:
-•	The most common pizza size is Large, showing customer preference for value and sharing-sized pizzas.
-•	The highest-priced pizza is Truffle Deluxe ($35), positioned as a premium product.
-•	Top 5 most ordered pizzas (e.g., Margherita, BBQ Chicken) dominate sales and customer preferences.
-•	Peak demand hours occur 7:00 PM - 9:00 PM, with weekend and holiday sales showing significant spikes.
-•	Non-vegetarian pizzas contribute 60% of total orders, but vegetarian options also have a consistent demand.
-•	The Pareto Principle is evident: a few pizza types contribute the majority of revenue.
+*	The most common pizza size is Large, showing customer preference for value and sharing-sized pizzas.
+*	The highest-priced pizza is Truffle Deluxe ($35), positioned as a premium product.
+*	Top 5 most ordered pizzas (e.g., Margherita, BBQ Chicken) dominate sales and customer preferences.
+*	Peak demand hours occur 7:00 PM - 9:00 PM, with weekend and holiday sales showing significant spikes.
+*	Non-vegetarian pizzas contribute 60% of total orders, but vegetarian options also have a consistent demand.
+*	The Pareto Principle is evident: a few pizza types contribute the majority of revenue.
 ________________________________________
 ## **Recommendations:**
 * 1.	Promotions:  
