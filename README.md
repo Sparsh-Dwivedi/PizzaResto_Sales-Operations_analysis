@@ -99,7 +99,7 @@ ________________________________________
 
 
 ## **Final Conclusion**
-# <br><b>Key Findings:</b></br>
+<br><b>Key Findings:</b></br>
 *	The most common pizza size is Large, showing customer preference for value and sharing-sized pizzas.
 *	The highest-priced pizza is Truffle Deluxe ($35), positioned as a premium product.
 *	Top 5 most ordered pizzas (e.g., Margherita, BBQ Chicken) dominate sales and customer preferences.
