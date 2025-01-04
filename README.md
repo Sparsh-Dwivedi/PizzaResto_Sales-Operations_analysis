@@ -108,13 +108,13 @@ ________________________________________
 *	The Pareto Principle is evident: a few pizza types contribute the majority of revenue.
 ________________________________________
 ## **Recommendations:**
-* 1.	<br><b>Promotions:</b></br>  
+* <br><b>1. Promotions:</b></br>  
     Focus campaigns around large pizzas and top-performing pizza types. Offer discounts during low-demand hours to boost sales.
-* 2.	<br><b>Menu Engineering:</b></br>  
+* <br><b>2. Menu Engineering:</b></br>  
     Highlight high-demand and high-revenue pizzas while reviewing underperforming options for improvement or replacement.
-* 3.	<br><b>Operational Efficiency:</b></br>  
+* <br><b>3. Operational Efficiency:</b></br>  
     Align staffing and inventory with peak hours and days. Use data insights to avoid overstocking during low-demand times.
-* 4.	<br><b>Seasonal Planning:</b></br>   
+* <br><b>4. Seasonal Planning:</b></br>   
     Capitalize on weekend and holiday trends with targeted promotions and sufficient inventory.  
 
   By leveraging these insights, PizzaHut can refine its strategies to enhance customer satisfaction, maximize profitability, and ensure sustainable growth.
