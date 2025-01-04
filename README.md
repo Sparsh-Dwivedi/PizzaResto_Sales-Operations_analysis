@@ -3,7 +3,7 @@
 ## **Project Overview**
 
 Pizza Resto aims to improve its overall sales performance, profitability, and customer satisfaction by analyzing key aspects of its operations. These include understanding customer preferences, identifying top revenue-generating products, optimizing the menu, and analyzing purchasing patterns over time. The ultimate goal is to generate actionable insights for strategic decision-making and operational efficiency.
-## **Objective:**
+## **Objective**
 "Optimizing Pizza Sales and Operational Efficiency for Pizza Resto"
 
 ## **Key Performance Indicators (KPIs)**
@@ -29,7 +29,7 @@ Pizza Resto aims to improve its overall sales performance, profitability, and cu
 13.	Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
 ## **Insights Generated from Questions**
-<br><b>Basic Insights:</b></br>
+# Basic Insights:
 <br><b>1.	Total Orders Placed:</b></br>
 *	Result: 21,350 orders 
 *	Insight: High order volume indicates strong demand for PizzaHut’s products, which provides a foundation for further analysis.
@@ -99,7 +99,7 @@ ________________________________________
 
 
 ## **Final Conclusion**
-# Key Findings:
+# <br><b>Key Findings:</b></br>
 *	The most common pizza size is Large, showing customer preference for value and sharing-sized pizzas.
 *	The highest-priced pizza is Truffle Deluxe ($35), positioned as a premium product.
 *	Top 5 most ordered pizzas (e.g., Margherita, BBQ Chicken) dominate sales and customer preferences.
