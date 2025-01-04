@@ -41,52 +41,57 @@ Pizza Resto aims to improve its overall sales performance, profitability, and cu
 <br><b>3.	Highest-Priced Pizza:</b></br>
 *	Result: Truffle Deluxe ($35).
 *	Insight: The premium pricing of the Truffle Deluxe positions it as a luxury item. If sales are low, adjustments to marketing or pricing might boost its demand.
+
 <br><b>4.	Most Common Pizza Size Ordered:</b></br>
 *	Result: Large.
 *	Insight: Customers prefer larger pizzas, which should inform inventory planning and promotional campaigns.
+
 <br><b>5.	Top 5 Most Ordered Pizza Types:</b></br>
-*	Result:
-1.	Margherita
-2.	Pepperoni
-3.	BBQ Chicken
-4.	Veggie Delight
-5.	Meat Feast.
+*	Result:  1.	Margherita
+           2.	Pepperoni
+           3.	BBQ Chicken
+           4.	Veggie Delight
+           5.	Meat Feast.
 *	Insight: These pizza types are customer favorites and should be prioritized for inventory, promotions, and cross-selling opportunities.
 ________________________________________
 # Intermediate Insights:
 <br><b>6.	Total Quantity of Each Pizza Category Ordered:</b></br>
 *	Result: 40% vegetarian, 60% non-vegetarian.
 *	Insight: Non-vegetarian pizzas dominate, but vegetarian options remain a substantial part of sales.
+
 <br><b>7.	Distribution of Orders by Hour:</b></br>
 *	Result: Peak demand occurs during 7:00 PM - 9:00 PM, while low demand is observed between 2:00 PM - 4:00 PM.
 *	Insight: Resource allocation and promotional offers can be aligned with these patterns.
+
 <br><b>8.	Category-Wise Distribution of Pizzas:</b></br>
 *	Result:
 1.	Vegetarian: Margherita, Veggie Delight, Paneer Tikka.
 2. Non-Vegetarian: BBQ Chicken, Pepperoni, Meat Feast.
 *	Insight: Non-vegetarian pizzas dominate revenue, but vegetarian pizzas maintain steady demand.
+
 <br><b>9.	Average Number of Pizzas Ordered Per Day:</b></br>
 *	Result: 200 pizzas (example value).
 *	Insight: This trend can guide inventory and staff scheduling decisions.
+
 <br><b>10.	Top 3 Pizza Types Based on Revenue:</b></br>
-*	Result:
-1.	BBQ Chicken
-2.	Pepperoni
-3.	Meat Feast.
+*	Result:  1.	BBQ Chicken
+           2.	Pepperoni
+           3.	Meat Feast.
 *	Insight: These pizzas generate the most revenue and should be prioritized in marketing and inventory planning.
 ________________________________________
 # Advanced Insights:
- <br><b>11.	Percentage Contribution of Each Pizza Type to Revenue:</b></br>
+<br><b>11.	Percentage Contribution of Each Pizza Type to Revenue:</b></br>
 *	Result: Top 3 pizzas contribute 65% of total revenue, aligning with the Pareto Principle (80/20 rule).
 *	Insight: Focus on these pizzas to maximize revenue.
+
 <br><b> 12.	Cumulative Revenue Over Time:</b></br>
 *	Result: Revenue shows steady growth with spikes during weekends and holidays.
 *	Insight: Weekend and holiday promotions are key to capitalizing on peak sales periods.
+
 <br><b> 13.	Top 3 Most Ordered Pizzas by Revenue for Each Category:</b></br>
-*	Result:
-1. Vegetarian: Margherita, Veggie Delight, Paneer Tikka.
-2. Non-Vegetarian: BBQ Chicken, Pepperoni, Meat Feast.
--	Insight: Both categories have strong contributors, enabling targeted menu engineering.
+*	Result: 1. Vegetarian: Margherita, Veggie Delight, Paneer Tikka.
+          2. Non-Vegetarian: BBQ Chicken, Pepperoni, Meat Feast.
+* Insight: Both categories have strong contributors, enabling targeted menu engineering.
 ________________________________________
 
 
