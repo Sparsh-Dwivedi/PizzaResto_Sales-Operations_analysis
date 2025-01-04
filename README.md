@@ -47,11 +47,12 @@ Pizza Resto aims to improve its overall sales performance, profitability, and cu
 *	Insight: Customers prefer larger pizzas, which should inform inventory planning and promotional campaigns.
 
 <br><b>5.	Top 5 Most Ordered Pizza Types:</b></br>
-*	Result:  1.	Margherita
-           2.	Pepperoni
-           3.	BBQ Chicken
-           4.	Veggie Delight
-           5.	Meat Feast.
+*	Result:
+1.	Margherita
+2.	Pepperoni
+3.	BBQ Chicken
+4.	Veggie Delight
+5.	Meat Feast.
 *	Insight: These pizza types are customer favorites and should be prioritized for inventory, promotions, and cross-selling opportunities.
 ________________________________________
 # Intermediate Insights:
@@ -74,9 +75,10 @@ ________________________________________
 *	Insight: This trend can guide inventory and staff scheduling decisions.
 
 <br><b>10.	Top 3 Pizza Types Based on Revenue:</b></br>
-*	Result:  1.	BBQ Chicken
-           2.	Pepperoni
-           3.	Meat Feast.
+*	Result:
+1.	BBQ Chicken
+2.	Pepperoni
+3.	Meat Feast.
 *	Insight: These pizzas generate the most revenue and should be prioritized in marketing and inventory planning.
 ________________________________________
 # Advanced Insights:
@@ -89,8 +91,9 @@ ________________________________________
 *	Insight: Weekend and holiday promotions are key to capitalizing on peak sales periods.
 
 <br><b> 13.	Top 3 Most Ordered Pizzas by Revenue for Each Category:</b></br>
-*	Result: 1. Vegetarian: Margherita, Veggie Delight, Paneer Tikka.
-          2. Non-Vegetarian: BBQ Chicken, Pepperoni, Meat Feast.
+*	Result: 
+1. Vegetarian: Margherita, Veggie Delight, Paneer Tikka.
+2. Non-Vegetarian: BBQ Chicken, Pepperoni, Meat Feast.
 * Insight: Both categories have strong contributors, enabling targeted menu engineering.
 ________________________________________
 
