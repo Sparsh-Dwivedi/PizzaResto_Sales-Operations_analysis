@@ -4,7 +4,7 @@
 
 Pizza Resto aims to improve its overall sales performance, profitability, and customer satisfaction by analyzing key aspects of its operations. These include understanding customer preferences, identifying top revenue-generating products, optimizing the menu, and analyzing purchasing patterns over time. The ultimate goal is to generate actionable insights for strategic decision-making and operational efficiency.
 ## **Objective**
-<i>"Optimizing Pizza Sales and Operational Efficiency for Pizza Resto"</i>
+<b><i>"Optimizing Pizza Sales and Operational Efficiency for Pizza Resto"</i></b>
 
 ## **Key Performance Indicators (KPIs)**
 <br><b>Probing R1:</b></br>
