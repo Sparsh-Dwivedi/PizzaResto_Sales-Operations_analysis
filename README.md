@@ -33,9 +33,11 @@ Pizza Resto aims to improve its overall sales performance, profitability, and cu
 <br><b>1.	Total Orders Placed:</b></br>
 *	Result: 21,350 orders 
 *	Insight: High order volume indicates strong demand for PizzaHut’s products, which provides a foundation for further analysis.
+
 <br><b>2.	Total Revenue Generated:</b></br>
 *	Result: $ 817,860.05
 *	Insight: Pizza sales are a significant source of income, with potential to increase further through strategic actions.
+
 <br><b>3.	Highest-Priced Pizza:</b></br>
 *	Result: Truffle Deluxe ($35).
 *	Insight: The premium pricing of the Truffle Deluxe positions it as a luxury item. If sales are low, adjustments to marketing or pricing might boost its demand.
