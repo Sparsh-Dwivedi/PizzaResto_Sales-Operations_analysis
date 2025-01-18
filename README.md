@@ -97,7 +97,6 @@ ________________________________________
 * Insight: Both categories have strong contributors, enabling targeted menu engineering.
 ________________________________________
 
-
 ## **Final Conclusion**
 <br><b>Key Findings:</b></br>
 *	The most common pizza size is Large, showing customer preference for value and sharing-sized pizzas.
